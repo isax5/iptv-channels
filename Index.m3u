@@ -33,9 +33,6 @@ https://gma2.blab.email/espnews.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.housing.purdue.edu/BTV/Channel/ChannelIcon/22b8f958-dc69-4cb2-a273-ed61e24dded0" tvg-country="US" tvg-url="" group-title="",ESPN U
 https://gma2.blab.email/espnu.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/exdDHml.png" tvg-country="US" tvg-url="" group-title="",Hope Channel
-https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/iJldO7U.jpg" tvg-country="US" tvg-url="" group-title="",NASA TV
 https://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
 
@@ -45,34 +42,40 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
 #EXTINF:-1 tvg-id="National Geographic" tvg-name="" tvg-language="English" tvg-logo="https://www.nationalgeographicla.com/images/logo.png" tvg-country="US" tvg-url="" group-title="Lifestyle",National Geographic
 http://5.135.92.133:52841/out/u/83_1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/GVZuKc7.png" tvg-country="US" tvg-url="" group-title="",3ABN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/exdDHml.png" tvg-country="US" tvg-url="" group-title="Adventist",Hope Channel
+https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/exdDHml.png" tvg-country="CL" tvg-url="" group-title="Adventist",Nuevo Tiempo
+http://stream.novotempo.com:1935/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/GVZuKc7.png" tvg-country="US" tvg-url="" group-title="Adventist",3ABN
 https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/HQs/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/zI6jr9L.png" tvg-country="US" tvg-url="" group-title="",3ABN Dare to Dream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/zI6jr9L.png" tvg-country="US" tvg-url="" group-title="Adventist",3ABN Dare to Dream
 https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/HQs/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/V6bL5MJ.png" tvg-country="US" tvg-url="" group-title="",3ABN Français
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/V6bL5MJ.png" tvg-country="US" tvg-url="" group-title="Adventist",3ABN Français
 https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/HQs/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/vhb8zvB.png" tvg-country="US" tvg-url="" group-title="",3ABN International
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/vhb8zvB.png" tvg-country="US" tvg-url="" group-title="Adventist",3ABN International
 https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/HQs/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/eOvzf3d.png" tvg-country="US" tvg-url="" group-title="",3ABN Kids
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/eOvzf3d.png" tvg-country="US" tvg-url="" group-title="Adventist",3ABN Kids
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Kids",3ABN KIDS TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Adventist",3ABN KIDS TV
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/DrGJhG3.png" tvg-country="US" tvg-url="" group-title="",3ABN Latino
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/DrGJhG3.png" tvg-country="US" tvg-url="" group-title="Adventist",3ABN Latino
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/HQs/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XzQ3Cpg.png" tvg-country="US" tvg-url="" group-title="",3ABN Praise Him Music Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XzQ3Cpg.png" tvg-country="US" tvg-url="" group-title="Adventist",3ABN Praise Him Music Channel
 https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/HQs/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KiMtKUL.png" tvg-country="US" tvg-url="" group-title="",3ABN Proclaim!
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KiMtKUL.png" tvg-country="US" tvg-url="" group-title="Adventist",3ABN Proclaim!
 https://moiptvhls-i.akamaihd.net/hls/live/652317/secure/HQs/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/8fKWpo3.png" tvg-country="US" tvg-url="" group-title="",3ABN Russia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/8fKWpo3.png" tvg-country="US" tvg-url="" group-title="Adventist",3ABN Russia
 https://moiptvhls-i.akamaihd.net/hls/live/652316/secure/HQs/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="ID" tvg-url="" group-title="",ANIMAL PLANET HD
