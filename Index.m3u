@@ -48,10 +48,10 @@ http://chv-m3u.chorroaeboy.repl.co
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Emblema_de_La_Red.png/200px-Emblema_de_La_Red.png" tvg-country="CL" tvg-language="Spanish" group-title="Chile Tv",La Red
 https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-BbCIUKB7XJE/XbRLHyJVKcI/AAAAAAAArtU/ipNQiS3rttYIRuK2nKzy_oocBx0x4TOLACK8BGAsYHg/s0/2019-10-26.png" tvg-country="CL" tvg-language="Spanish" group-title="Chile Tv",TVN 24 Horas
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://estaticos.24horas.cl/skins/errores/404/logo24.png" tvg-country="CL" tvg-language="Spanish" group-title="Chile Tv",TVN 24 Horas
 https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-42YG0jZhyGg/XbC0Ua8FlLI/AAAAAAAArlw/S2qhcWOdFuskqCondIatbmxSfLMvgj9owCK8BGAsYHg/s0/2019-10-23.png" tvg-country="CL" tvg-language="Spanish" group-title="Chile Tv",Meganoticias
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Mega_2020.svg/revision/latest/scale-to-width-down/225?cb=20210329134307&path-prefix=es" tvg-country="CL" tvg-language="Spanish" group-title="Chile Tv",Meganoticias
 http://www.m3u.cl/channel/meganoticias.php?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://theme.zdassets.com/theme_assets/1226579/61fa2eb9914d55b3fcad1f3f8b4c162d40c8cbdd.png" tvg-country="US" tvg-url="" group-title="US Tv",ABC 15
