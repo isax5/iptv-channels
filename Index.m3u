@@ -63,11 +63,11 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WTTG-Monetizer.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.thetradedesk.com/assets/global/PartnerLogo_Fox_256x256.png" tvg-country="US" tvg-url="" group-title="US Tv",FOX 11 Los Angeles CA
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTTV-Monetizer.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/r5p97Ex.jpg" tvg-country="VE" tvg-url="" group-title="Caracas Tv",Telesur
-http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="https://www.thetradedesk.com/assets/global/PartnerLogo_Fox_256x256.png" tvg-country="US" tvg-url="" group-title="RU Tv",FOX Russia HD
 https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/r5p97Ex.jpg" tvg-country="VE" tvg-url="" group-title="Caracas Tv",Telesur
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.shareicon.net/data/256x256/2015/08/09/82641_cnn_512x512.png" tvg-country="UK" tvg-url="" group-title="News",CNN International Europe
 https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
