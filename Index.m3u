@@ -63,7 +63,7 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WTTG-Monetizer.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.thetradedesk.com/assets/global/PartnerLogo_Fox_256x256.png" tvg-country="US" tvg-url="" group-title="US Tv",FOX 11 Los Angeles CA
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTTV-Monetizer.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="https://www.thetradedesk.com/assets/global/PartnerLogo_Fox_256x256.png" tvg-country="US" tvg-url="" group-title="RU Tv",FOX Russia HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="https://www.thetradedesk.com/assets/global/PartnerLogo_Fox_256x256.png" tvg-country="RU" tvg-url="" group-title="RU Tv",FOX Russia HD
 https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/r5p97Ex.jpg" tvg-country="VE" tvg-url="" group-title="Caracas Tv",Telesur
