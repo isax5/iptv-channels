@@ -51,11 +51,23 @@ https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-42YG0jZhyGg/XbC0Ua8FlLI/AAAAAAAArlw/S2qhcWOdFuskqCondIatbmxSfLMvgj9owCK8BGAsYHg/s0/2019-10-23.png" tvg-country="CL" tvg-language="Spanish" group-title="Chile Tv",Meganoticias
 http://www.m3u.cl/channel/meganoticias.php?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/KNXV_Logo.png" tvg-country="US" tvg-url="" group-title="US Tv",ABC 15
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://theme.zdassets.com/theme_assets/1226579/61fa2eb9914d55b3fcad1f3f8b4c162d40c8cbdd.png" tvg-country="US" tvg-url="" group-title="US Tv",ABC 15
 https://content.uplynk.com/61fb4f9811b64bddaf2cfb0e2e4a32db.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.thetradedesk.com/assets/global/PartnerLogo_Fox_256x256.png" tvg-country="US" tvg-url="" group-title="US Tv",FOX 5 New York
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WNYW-Monetizer.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.thetradedesk.com/assets/global/PartnerLogo_Fox_256x256.png" tvg-country="US" tvg-url="" group-title="US Tv",FOX 5 Washington DC
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WTTG-Monetizer.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.thetradedesk.com/assets/global/PartnerLogo_Fox_256x256.png" tvg-country="US" tvg-url="" group-title="US Tv",FOX 11 Los Angeles CA
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTTV-Monetizer.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/r5p97Ex.jpg" tvg-country="VE" tvg-url="" group-title="Caracas Tv",Telesur
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="https://www.thetradedesk.com/assets/global/PartnerLogo_Fox_256x256.png" tvg-country="US" tvg-url="" group-title="RU Tv",FOX Russia HD
+https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.shareicon.net/data/256x256/2015/08/09/82641_cnn_512x512.png" tvg-country="UK" tvg-url="" group-title="News",CNN International Europe
 https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
@@ -63,7 +75,7 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.shareicon.net/data/256x256/2015/08/09/82641_cnn_512x512.png" tvg-country="US" tvg-url="" group-title="News",CNN USA
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/KNXV_Logo.png" tvg-country="US" tvg-url="" group-title="News",ABC News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://theme.zdassets.com/theme_assets/1226579/61fa2eb9914d55b3fcad1f3f8b4c162d40c8cbdd.png" tvg-country="US" tvg-url="" group-title="News",ABC News
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" tvg-country="RU" tvg-url="" group-title="News",RT en Español
@@ -72,8 +84,17 @@ https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XJGki3v.png" tvg-country="RU" tvg-url="" group-title="News",RT News
 https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/iJldO7U.jpg" tvg-country="US" tvg-url="" group-title="Science",NASA TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://cdn.iconscout.com/icon/free/png-128/nasa-282190.png" tvg-country="US" tvg-url="" group-title="Science",NASA TV
 https://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://cdn.iconscout.com/icon/free/png-128/nasa-282190.png" tvg-country="US" tvg-url="" group-title="Science",NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://cdn.iconscout.com/icon/free/png-128/nasa-282190.png" tvg-country="US" tvg-url="" group-title="Science",NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://cdn.iconscout.com/icon/free/png-128/nasa-282190.png" tvg-country="US" tvg-url="" group-title="Science",NASA TV ISS Views
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XJGki3v.png" tvg-country="RU" tvg-url="" group-title="Documentary",RT Documentary
 https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
