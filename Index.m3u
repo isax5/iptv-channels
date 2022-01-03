@@ -40,7 +40,7 @@ https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/HQs/chunklist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg/live
 
 #EXTINF:-1 tvg-id="14" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Mega_2020.svg/revision/latest/scale-to-width-down/225?cb=20210329134307&path-prefix=es" tvg-country="CL" tvg-language="Spanish" group-title="Chile Tv",Mega
-http://www.m3u.cl/channel/meganoticias.php?PlaylistM3UCL
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="15" tvg-name="" tvg-logo="https://iconape.com/wp-content/png_logo_vector/chilevision-2018-present-logo.png" tvg-country="CL" tvg-language="Spanish" group-title="Chile Tv",ChileVisión
 http://chv-m3u.chorroaeboy.repl.co
@@ -53,6 +53,15 @@ https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3
 
 #EXTINF:-1 tvg-id="18" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Mega_2020.svg/revision/latest/scale-to-width-down/225?cb=20210329134307&path-prefix=es" tvg-country="CL" tvg-language="Spanish" group-title="Chile Tv",Meganoticias
 http://www.m3u.cl/channel/meganoticias.php?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="444" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV_Senado.svg/440px-TV_Senado.svg.png" tvg-country="CL" tvg-language="Spanish" group-title="Chile Tv", TV Senado
+https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="353" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Canal_9_B%C3%ADo_B%C3%ADo_Televisión_-_2012_logo.png/400px-Canal_9_B%C3%ADo_B%C3%ADo_Televisión_-_2012_logo.png"  tvg-country="CL" tvg-language="Spanish" group-title="Chile Tv", Canal 9 Bío Bí­o TV
+https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="348" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Canal_21_Chillán.png/640px-Canal_21_Chillán.png" tvg-country="CL" tvg-language="Spanish" group-title="Chile Tv", Canal 21 Chillán
+https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="19" tvg-name="" tvg-language="English" tvg-logo="https://theme.zdassets.com/theme_assets/1226579/61fa2eb9914d55b3fcad1f3f8b4c162d40c8cbdd.png" tvg-country="US" tvg-url="" group-title="US Tv",ABC 15
 https://content.uplynk.com/61fb4f9811b64bddaf2cfb0e2e4a32db.m3u8
@@ -80,6 +89,12 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 
 #EXTINF:-1 tvg-id="27" tvg-name="" tvg-language="English" tvg-logo="https://theme.zdassets.com/theme_assets/1226579/61fa2eb9914d55b3fcad1f3f8b4c162d40c8cbdd.png" tvg-country="US" tvg-url="" group-title="News",ABC News
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="334" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" tvg-country="DE" tvg-url="" group-title="News",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="290" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" tvg-country="DE" tvg-url="" group-title="News",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="28" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/XJGki3v.png" tvg-country="RU" tvg-url="" group-title="News",RT en Español
 https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
