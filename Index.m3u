@@ -1,103 +1,103 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/exdDHml.png" tvg-country="US" tvg-url="" group-title="Adventist English",Hope Channel
+#EXTINF:-1 tvg-id="1" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/exdDHml.png" tvg-country="US" tvg-url="" group-title="Adventist English",Hope Channel
 https://hcintlinc.mmdlive.lldns.net/hcintlinc/9649814c00e54c6eabc8d12d3cddd26c/chunklist_b2592000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/GVZuKc7.png" tvg-country="US" tvg-url="" group-title="Adventist English",3ABN
+#EXTINF:-1 tvg-id="2" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/GVZuKc7.png" tvg-country="US" tvg-url="" group-title="Adventist English",3ABN
 https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/HQs/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/vhb8zvB.png" tvg-country="US" tvg-url="" group-title="Adventist English",3ABN International
+#EXTINF:-1 tvg-id="3" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/vhb8zvB.png" tvg-country="US" tvg-url="" group-title="Adventist English",3ABN International
 https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/HQs/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/zI6jr9L.png" tvg-country="US" tvg-url="" group-title="Adventist English",3ABN Dare to Dream
+#EXTINF:-1 tvg-id="4" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/zI6jr9L.png" tvg-country="US" tvg-url="" group-title="Adventist English",3ABN Dare to Dream
 https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/HQs/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XzQ3Cpg.png" tvg-country="US" tvg-url="" group-title="Adventist English",3ABN Praise Him Music Channel
+#EXTINF:-1 tvg-id="5" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XzQ3Cpg.png" tvg-country="US" tvg-url="" group-title="Adventist English",3ABN Praise Him Music Channel
 https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/HQs/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KiMtKUL.png" tvg-country="US" tvg-url="" group-title="Adventist English",3ABN Proclaim!
+#EXTINF:-1 tvg-id="6" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KiMtKUL.png" tvg-country="US" tvg-url="" group-title="Adventist English",3ABN Proclaim!
 https://moiptvhls-i.akamaihd.net/hls/live/652317/secure/HQs/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/eOvzf3d.png" tvg-country="US" tvg-url="" group-title="Adventist English",3ABN Kids
+#EXTINF:-1 tvg-id="7" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/eOvzf3d.png" tvg-country="US" tvg-url="" group-title="Adventist English",3ABN Kids
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="https://i.imgur.com/exdDHml.png" tvg-country="RU" tvg-url="" group-title="Adventist Russian",Hope Channel
+#EXTINF:-1 tvg-id="8" tvg-name="" tvg-language="Russian" tvg-logo="https://i.imgur.com/exdDHml.png" tvg-country="RU" tvg-url="" group-title="Adventist Russian",Hope Channel
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="https://i.imgur.com/8fKWpo3.png" tvg-country="RU" tvg-url="" group-title="Adventist Russian",3ABN Russia
+#EXTINF:-1 tvg-id="9" tvg-name="" tvg-language="Russian" tvg-logo="https://i.imgur.com/8fKWpo3.png" tvg-country="RU" tvg-url="" group-title="Adventist Russian",3ABN Russia
 https://moiptvhls-i.akamaihd.net/hls/live/652316/secure/HQs/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/exdDHml.png" tvg-country="CL" tvg-url="" group-title="Adventist Spanish",Nuevo Tiempo
+#EXTINF:-1 tvg-id="10" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/exdDHml.png" tvg-country="CL" tvg-url="" group-title="Adventist Spanish",Nuevo Tiempo
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b3628000_slspa.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/DrGJhG3.png" tvg-country="US" tvg-url="" group-title="Adventist Spanish",3ABN Latino
+#EXTINF:-1 tvg-id="11" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/DrGJhG3.png" tvg-country="US" tvg-url="" group-title="Adventist Spanish",3ABN Latino
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/HQs/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/V6bL5MJ.png" tvg-country="US" tvg-url="" group-title="Adventist",3ABN Français
+#EXTINF:-1 tvg-id="12" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/V6bL5MJ.png" tvg-country="US" tvg-url="" group-title="Adventist",3ABN Français
 https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/HQs/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.13.cl/7/sites/default/files/portal/footer/field-red13-logos/logo_13cl-2x.png" tvg-country="CL" tvg-language="Spanish" group-title="Chile Tv",T13
+#EXTINF:-1 tvg-id="13" tvg-name="" tvg-logo="https://static.13.cl/7/sites/default/files/portal/footer/field-red13-logos/logo_13cl-2x.png" tvg-country="CL" tvg-language="Spanish" group-title="Chile Tv",T13
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg/live
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Mega_2020.svg/revision/latest/scale-to-width-down/225?cb=20210329134307&path-prefix=es" tvg-country="CL" tvg-language="Spanish" group-title="Chile Tv",Mega
+#EXTINF:-1 tvg-id="14" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Mega_2020.svg/revision/latest/scale-to-width-down/225?cb=20210329134307&path-prefix=es" tvg-country="CL" tvg-language="Spanish" group-title="Chile Tv",Mega
 http://www.m3u.cl/channel/meganoticias.php?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iconape.com/wp-content/png_logo_vector/chilevision-2018-present-logo.png" tvg-country="CL" tvg-language="Spanish" group-title="Chile Tv",ChileVisión
+#EXTINF:-1 tvg-id="15" tvg-name="" tvg-logo="https://iconape.com/wp-content/png_logo_vector/chilevision-2018-present-logo.png" tvg-country="CL" tvg-language="Spanish" group-title="Chile Tv",ChileVisión
 http://chv-m3u.chorroaeboy.repl.co
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Emblema_de_La_Red.png/200px-Emblema_de_La_Red.png" tvg-country="CL" tvg-language="Spanish" group-title="Chile Tv",La Red
+#EXTINF:-1 tvg-id="16" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Emblema_de_La_Red.png/200px-Emblema_de_La_Red.png" tvg-country="CL" tvg-language="Spanish" group-title="Chile Tv",La Red
 https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://estaticos.24horas.cl/skins/errores/404/logo24.png" tvg-country="CL" tvg-language="Spanish" group-title="Chile Tv",TVN 24 Horas
+#EXTINF:-1 tvg-id="17" tvg-name="" tvg-logo="https://estaticos.24horas.cl/skins/errores/404/logo24.png" tvg-country="CL" tvg-language="Spanish" group-title="Chile Tv",TVN 24 Horas
 https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Mega_2020.svg/revision/latest/scale-to-width-down/225?cb=20210329134307&path-prefix=es" tvg-country="CL" tvg-language="Spanish" group-title="Chile Tv",Meganoticias
+#EXTINF:-1 tvg-id="18" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Mega_2020.svg/revision/latest/scale-to-width-down/225?cb=20210329134307&path-prefix=es" tvg-country="CL" tvg-language="Spanish" group-title="Chile Tv",Meganoticias
 http://www.m3u.cl/channel/meganoticias.php?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://theme.zdassets.com/theme_assets/1226579/61fa2eb9914d55b3fcad1f3f8b4c162d40c8cbdd.png" tvg-country="US" tvg-url="" group-title="US Tv",ABC 15
+#EXTINF:-1 tvg-id="19" tvg-name="" tvg-language="English" tvg-logo="https://theme.zdassets.com/theme_assets/1226579/61fa2eb9914d55b3fcad1f3f8b4c162d40c8cbdd.png" tvg-country="US" tvg-url="" group-title="US Tv",ABC 15
 https://content.uplynk.com/61fb4f9811b64bddaf2cfb0e2e4a32db.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.thetradedesk.com/assets/global/PartnerLogo_Fox_256x256.png" tvg-country="US" tvg-url="" group-title="US Tv",FOX 5 New York NY
+#EXTINF:-1 tvg-id="20" tvg-name="" tvg-language="English" tvg-logo="https://www.thetradedesk.com/assets/global/PartnerLogo_Fox_256x256.png" tvg-country="US" tvg-url="" group-title="US Tv",FOX 5 New York NY
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WNYW-Monetizer.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.thetradedesk.com/assets/global/PartnerLogo_Fox_256x256.png" tvg-country="US" tvg-url="" group-title="US Tv",FOX 5 Washington DC
+#EXTINF:-1 tvg-id="21" tvg-name="" tvg-language="English" tvg-logo="https://www.thetradedesk.com/assets/global/PartnerLogo_Fox_256x256.png" tvg-country="US" tvg-url="" group-title="US Tv",FOX 5 Washington DC
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WTTG-Monetizer.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.thetradedesk.com/assets/global/PartnerLogo_Fox_256x256.png" tvg-country="US" tvg-url="" group-title="US Tv",FOX 11 Los Angeles CA
+#EXTINF:-1 tvg-id="22" tvg-name="" tvg-language="English" tvg-logo="https://www.thetradedesk.com/assets/global/PartnerLogo_Fox_256x256.png" tvg-country="US" tvg-url="" group-title="US Tv",FOX 11 Los Angeles CA
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTTV-Monetizer.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="https://www.thetradedesk.com/assets/global/PartnerLogo_Fox_256x256.png" tvg-country="RU" tvg-url="" group-title="RU Tv",FOX Russia HD
+#EXTINF:-1 tvg-id="23" tvg-name="" tvg-language="Russian" tvg-logo="https://www.thetradedesk.com/assets/global/PartnerLogo_Fox_256x256.png" tvg-country="RU" tvg-url="" group-title="RU Tv",FOX Russia HD
 https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/r5p97Ex.jpg" tvg-country="VE" tvg-url="" group-title="Caracas Tv",Telesur
+#EXTINF:-1 tvg-id="24" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/r5p97Ex.jpg" tvg-country="VE" tvg-url="" group-title="Caracas Tv",Telesur
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.shareicon.net/data/256x256/2015/08/09/82641_cnn_512x512.png" tvg-country="UK" tvg-url="" group-title="News",CNN International Europe
+#EXTINF:-1 tvg-id="25" tvg-name="" tvg-language="English" tvg-logo="https://www.shareicon.net/data/256x256/2015/08/09/82641_cnn_512x512.png" tvg-country="UK" tvg-url="" group-title="News",CNN International Europe
 https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.shareicon.net/data/256x256/2015/08/09/82641_cnn_512x512.png" tvg-country="US" tvg-url="" group-title="News",CNN USA
+#EXTINF:-1 tvg-id="26" tvg-name="" tvg-language="English" tvg-logo="https://www.shareicon.net/data/256x256/2015/08/09/82641_cnn_512x512.png" tvg-country="US" tvg-url="" group-title="News",CNN USA
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://theme.zdassets.com/theme_assets/1226579/61fa2eb9914d55b3fcad1f3f8b4c162d40c8cbdd.png" tvg-country="US" tvg-url="" group-title="News",ABC News
+#EXTINF:-1 tvg-id="27" tvg-name="" tvg-language="English" tvg-logo="https://theme.zdassets.com/theme_assets/1226579/61fa2eb9914d55b3fcad1f3f8b4c162d40c8cbdd.png" tvg-country="US" tvg-url="" group-title="News",ABC News
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/XJGki3v.png" tvg-country="RU" tvg-url="" group-title="News",RT en Español
+#EXTINF:-1 tvg-id="28" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/XJGki3v.png" tvg-country="RU" tvg-url="" group-title="News",RT en Español
 https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XJGki3v.png" tvg-country="RU" tvg-url="" group-title="News",RT News
+#EXTINF:-1 tvg-id="29" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XJGki3v.png" tvg-country="RU" tvg-url="" group-title="News",RT News
 https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://cdn.iconscout.com/icon/free/png-128/nasa-282190.png" tvg-country="US" tvg-url="" group-title="Science",NASA TV
+#EXTINF:-1 tvg-id="30" tvg-name="" tvg-language="English" tvg-logo="https://cdn.iconscout.com/icon/free/png-128/nasa-282190.png" tvg-country="US" tvg-url="" group-title="Science",NASA TV
 https://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://cdn.iconscout.com/icon/free/png-128/nasa-282190.png" tvg-country="US" tvg-url="" group-title="Science",NASA TV Media
+#EXTINF:-1 tvg-id="31" tvg-name="" tvg-language="English" tvg-logo="https://cdn.iconscout.com/icon/free/png-128/nasa-282190.png" tvg-country="US" tvg-url="" group-title="Science",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://cdn.iconscout.com/icon/free/png-128/nasa-282190.png" tvg-country="US" tvg-url="" group-title="Science",NASA TV Public
+#EXTINF:-1 tvg-id="32" tvg-name="" tvg-language="English" tvg-logo="https://cdn.iconscout.com/icon/free/png-128/nasa-282190.png" tvg-country="US" tvg-url="" group-title="Science",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://cdn.iconscout.com/icon/free/png-128/nasa-282190.png" tvg-country="US" tvg-url="" group-title="Science",NASA TV ISS Views
+#EXTINF:-1 tvg-id="33" tvg-name="" tvg-language="English" tvg-logo="https://cdn.iconscout.com/icon/free/png-128/nasa-282190.png" tvg-country="US" tvg-url="" group-title="Science",NASA TV ISS Views
 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XJGki3v.png" tvg-country="RU" tvg-url="" group-title="Documentary",RT Documentary
+#EXTINF:-1 tvg-id="34" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XJGki3v.png" tvg-country="RU" tvg-url="" group-title="Documentary",RT Documentary
 https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
