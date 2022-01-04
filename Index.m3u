@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/exdDHml.png" tvg-country="US" tvg-url="" group-title="Adventist English",Hope Channel
+#EXTINF:-1 tvg-id="1" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/exdDHml.png" tvg-country="US" tvg-url="" group-title="Adventist English",Hope Channel North America
 https://hcintlinc.mmdlive.lldns.net/hcintlinc/9649814c00e54c6eabc8d12d3cddd26c/chunklist_b2592000.m3u8
+
+#EXTINF:-1 tvg-id="111" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/exdDHml.png" tvg-country="US" tvg-url="" group-title="Adventist English",Hope Channel International
+https://hcintlinc.mmdlive.lldns.net/hcintlinc/60f14a7fec64454e90712421a46ac6f1/manifest.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/GVZuKc7.png" tvg-country="US" tvg-url="" group-title="Adventist English",3ABN
 https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/HQs/chunklist.m3u8
@@ -36,6 +39,9 @@ https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/HQs/chunklist.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/V6bL5MJ.png" tvg-country="US" tvg-url="" group-title="Adventist",3ABN Français
 https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/HQs/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="113" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/exdDHml.png" tvg-country="PH" tvg-url="" group-title="Adventist",Hope Channel Philipines
+https://hcfilipino.mmdlive.lldns.net/hcfilipino/f6e775755f2647159e0adefe01a44a0e/manifest.m3u8
+
 #EXTINF:-1 tvg-id="13" tvg-name="" tvg-logo="https://static.13.cl/7/sites/default/files/portal/footer/field-red13-logos/logo_13cl-2x.png" tvg-country="CL" tvg-language="Spanish" group-title="Chile Tv",T13
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg/live
 
@@ -55,7 +61,7 @@ https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3
 http://www.m3u.cl/channel/meganoticias.php?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="444" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV_Senado.svg/440px-TV_Senado.svg.png" tvg-country="CL" tvg-language="Spanish" group-title="Chile Tv", TV Senado
-https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
+https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-id="353" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Canal_9_B%C3%ADo_B%C3%ADo_Televisión_-_2012_logo.png/400px-Canal_9_B%C3%ADo_B%C3%ADo_Televisión_-_2012_logo.png"  tvg-country="CL" tvg-language="Spanish" group-title="Chile Tv", Canal 9 Bío Bí­o TV
 https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL
@@ -63,8 +69,8 @@ https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="348" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Canal_21_Chillán.png/640px-Canal_21_Chillán.png" tvg-country="CL" tvg-language="Spanish" group-title="Chile Tv", Canal 21 Chillán
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="19" tvg-name="" tvg-language="English" tvg-logo="https://theme.zdassets.com/theme_assets/1226579/61fa2eb9914d55b3fcad1f3f8b4c162d40c8cbdd.png" tvg-country="US" tvg-url="" group-title="US Tv",ABC 15
-https://content.uplynk.com/61fb4f9811b64bddaf2cfb0e2e4a32db.m3u8
+#EXTINF:-1 tvg-id="19" tvg-name="" tvg-language="English" tvg-logo="https://theme.zdassets.com/theme_assets/1226579/61fa2eb9914d55b3fcad1f3f8b4c162d40c8cbdd.png" tvg-country="US" tvg-url="" group-title="US Tv",ABC 15 Phoenix AZ
+https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
 
 #EXTINF:-1 tvg-id="20" tvg-name="" tvg-language="English" tvg-logo="https://www.thetradedesk.com/assets/global/PartnerLogo_Fox_256x256.png" tvg-country="US" tvg-url="" group-title="US Tv",FOX 5 New York NY
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WNYW-Monetizer.m3u8
@@ -78,11 +84,14 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTTV-Monetizer.m3u8
 #EXTINF:-1 tvg-id="23" tvg-name="" tvg-language="Russian" tvg-logo="https://www.thetradedesk.com/assets/global/PartnerLogo_Fox_256x256.png" tvg-country="RU" tvg-url="" group-title="RU Tv",FOX Russia HD
 https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
 
+#EXTINF:-1 tvg-id="261" tvg-name="" tvg-language="English" tvg-logo="https://www.shareicon.net/data/256x256/2015/08/09/82641_cnn_512x512.png" tvg-country="US" tvg-url="" group-title="News",CNN
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5421f71da6af422839419cb3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=209&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="262" tvg-name="" tvg-language="English" tvg-logo="https://www.shareicon.net/data/256x256/2015/08/09/82641_cnn_512x512.png" tvg-country="US" tvg-url="" group-title="News",CNN USA
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
 #EXTINF:-1 tvg-id="25" tvg-name="" tvg-language="English" tvg-logo="https://www.shareicon.net/data/256x256/2015/08/09/82641_cnn_512x512.png" tvg-country="UK" tvg-url="" group-title="News",CNN International Europe
 https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="26" tvg-name="" tvg-language="English" tvg-logo="https://www.shareicon.net/data/256x256/2015/08/09/82641_cnn_512x512.png" tvg-country="US" tvg-url="" group-title="News",CNN USA
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="27" tvg-name="" tvg-language="English" tvg-logo="https://theme.zdassets.com/theme_assets/1226579/61fa2eb9914d55b3fcad1f3f8b4c162d40c8cbdd.png" tvg-country="US" tvg-url="" group-title="News",ABC News
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
@@ -111,11 +120,14 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="" tvg-language="English" tvg-logo="https://cdn.iconscout.com/icon/free/png-128/nasa-282190.png" tvg-country="US" tvg-url="" group-title="Science",NASA TV ISS Views
 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
 
+#EXTINF:-1 tvg-id="331" tvg-name="" tvg-language="English" tvg-logo="https://gogeticon.net/files/689623/4a1bcc0c1c026f1e3b2a5c86cf6b96e5.png" tvg-country="RU" tvg-url="" group-title="Documentary",National Geographic Russia
+https://okkotv-live.cdnvideo.ru/channel/NGC_HD.m3u8
+
+#EXTINF:-1 tvg-id="332" tvg-name="" tvg-language="English" tvg-logo="https://gogeticon.net/files/689623/4a1bcc0c1c026f1e3b2a5c86cf6b96e5.png" tvg-country="RU" tvg-url="" group-title="Documentary",National Geographic Whild Russia
+https://okkotv-live.cdnvideo.ru/channel/NGC_Wild_HD.m3u8
+
 #EXTINF:-1 tvg-id="34" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XJGki3v.png" tvg-country="RU" tvg-url="" group-title="Documentary",RT Documentary
 https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="341" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Sport",ESPN
-http://stream2.grandma.fit/fs2.m3u8
-
-#EXTINF:-1 tvg-id="341" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Sport",FOX Sport
+#EXTINF:-1 tvg-id="341" tvg-name="" tvg-language="English" tvg-logo="https://www.thetradedesk.com/assets/global/PartnerLogo_Fox_256x256.png" tvg-country="US" tvg-url="" group-title="Sport",FOX Sport
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720_v3.m3u8
