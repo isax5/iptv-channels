@@ -24,7 +24,7 @@ https://moiptvhls-i.akamaihd.net/hls/live/652317/secure/HQs/chunklist.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/eOvzf3d.png" tvg-country="US" tvg-url="" group-title="Adventist English",3ABN Kids
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="8" tvg-name="" tvg-language="Russian" tvg-logo="https://i.imgur.com/exdDHml.png" tvg-country="RU" tvg-url="" group-title="Adventist Russian",Hope Channel
+#EXTINF:-1 tvg-id="8" tvg-name="" tvg-language="Russian" tvg-logo="https://i.imgur.com/exdDHml.png" tvg-country="RU" tvg-url="" group-title="Adventist Russian",Hope Channel Russia
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-name="" tvg-language="Russian" tvg-logo="https://i.imgur.com/8fKWpo3.png" tvg-country="RU" tvg-url="" group-title="Adventist Russian",3ABN Russia
