@@ -16,13 +16,13 @@ https://3abn-live.akamaized.net/hls/live/2010544/International/master.m3u8
 https://3abn-live.akamaized.net/hls/live/2010545/D2D/master.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XzQ3Cpg.png" tvg-country="US" tvg-url="" group-title="Adventist English",3ABN Praise Him Music Channel
-https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/HQs/chunklist.m3u8
+https://3abn-live.akamaized.net/hls/live/2010551/Praise_Him/master.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KiMtKUL.png" tvg-country="US" tvg-url="" group-title="Adventist English",3ABN Proclaim!
 https://moiptvhls-i.akamaihd.net/hls/live/652317/secure/HQs/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="7" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/eOvzf3d.png" tvg-country="US" tvg-url="" group-title="Adventist English",3ABN Kids
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
+https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
 
 #EXTINF:-1 tvg-id="8" tvg-name="" tvg-language="Russian" tvg-logo="https://i.imgur.com/exdDHml.png" tvg-country="RU" tvg-url="" group-title="Adventist Russian",Hope Channel Russia
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/chunklist.m3u8
