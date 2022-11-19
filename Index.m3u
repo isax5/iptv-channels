@@ -117,5 +117,8 @@ https://okkotv-live.cdnvideo.ru/channel/NGC_HD.m3u8
 #EXTINF:-1 tvg-id="332" tvg-name="" tvg-language="English" tvg-logo="https://gogeticon.net/files/689623/4a1bcc0c1c026f1e3b2a5c86cf6b96e5.png" tvg-country="RU" tvg-url="" group-title="Documentary",National Geographic Whild Russia
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 
+#EXTINF:-1 tvg-id="34" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XJGki3v.png" tvg-country="RU" tvg-url="" group-title="Documentary",RT Documentary
+http://uiptv.do.am/1ufc/300663722/playlist.m3u8
+
 #EXTINF:-1 tvg-id="341" tvg-name="" tvg-language="English" tvg-logo="https://www.thetradedesk.com/assets/global/PartnerLogo_Fox_256x256.png" tvg-country="US" tvg-url="" group-title="Sport",FOX Sport
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720_v3.m3u8
