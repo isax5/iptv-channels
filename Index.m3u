@@ -99,12 +99,6 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/strea
 #EXTINF:-1 tvg-id="290" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" tvg-country="DE" tvg-url="" group-title="News",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-id="28" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/XJGki3v.png" tvg-country="RU" tvg-url="" group-title="News",RT en Español
-https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="29" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XJGki3v.png" tvg-country="RU" tvg-url="" group-title="News",RT News
-https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
-
 #EXTINF:-1 tvg-id="30" tvg-name="" tvg-language="English" tvg-logo="https://cdn.iconscout.com/icon/free/png-128/nasa-282190.png" tvg-country="US" tvg-url="" group-title="Science",NASA TV
 https://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
 
