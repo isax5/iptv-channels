@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-id="1" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/exdDHml.png" tvg-country="US" tvg-url="" group-title="Adventist English",Hope Channel North America
 https://videodelivery.net/1eaa18c55e2558a400eab00dbde2caca/manifest/video.m3u8
 
-#EXTINF:-1 tvg-id="111" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/exdDHml.png" tvg-country="US" tvg-url="" group-title="Adventist English",Hope Channel International
-https://hcintlinc.mmdlive.lldns.net/hcintlinc/60f14a7fec64454e90712421a46ac6f1/manifest.m3u8
-
 #EXTINF:-1 tvg-id="2" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/GVZuKc7.png" tvg-country="US" tvg-url="" group-title="Adventist English",3ABN
 https://3abn-live.akamaized.net/hls/live/2010543/3ABN/master.m3u8
 
