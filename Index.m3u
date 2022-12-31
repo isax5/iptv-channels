@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="1" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/exdDHml.png" tvg-country="US" tvg-url="" group-title="Adventist English",Hope Channel North America
-https://hcintlinc.mmdlive.lldns.net/hcintlinc/9649814c00e54c6eabc8d12d3cddd26c/chunklist_b2592000.m3u8
+https://videodelivery.net/1eaa18c55e2558a400eab00dbde2caca/manifest/video.m3u8
 
 #EXTINF:-1 tvg-id="111" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/exdDHml.png" tvg-country="US" tvg-url="" group-title="Adventist English",Hope Channel International
 https://hcintlinc.mmdlive.lldns.net/hcintlinc/60f14a7fec64454e90712421a46ac6f1/manifest.m3u8
