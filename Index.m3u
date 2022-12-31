@@ -60,13 +60,13 @@ https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3
 #EXTINF:-1 tvg-id="18" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Mega_2020.svg/revision/latest/scale-to-width-down/225?cb=20210329134307&path-prefix=es" tvg-country="CL" tvg-language="Spanish" group-title="Chile Tv",Meganoticias
 http://www.m3u.cl/channel/meganoticias.php?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="444" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV_Senado.svg/440px-TV_Senado.svg.png" tvg-country="CL" tvg-language="Spanish" group-title="Chile Tv", TV Senado
+#EXTINF:-1 tvg-id="444" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV_Senado.svg/440px-TV_Senado.svg.png" tvg-country="CL" tvg-language="Spanish" group-title="Chile Tv",TV Senado
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
 
-#EXTINF:-1 tvg-id="353" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Canal_9_B%C3%ADo_B%C3%ADo_Televisión_-_2012_logo.png/400px-Canal_9_B%C3%ADo_B%C3%ADo_Televisión_-_2012_logo.png"  tvg-country="CL" tvg-language="Spanish" group-title="Chile Tv", Canal 9 Bío Bí­o TV
+#EXTINF:-1 tvg-id="353" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Canal_9_B%C3%ADo_B%C3%ADo_Televisión_-_2012_logo.png/400px-Canal_9_B%C3%ADo_B%C3%ADo_Televisión_-_2012_logo.png"  tvg-country="CL" tvg-language="Spanish" group-title="Chile Tv",Canal 9 Bío Bío TV
 https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="348" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Canal_21_Chillán.png/640px-Canal_21_Chillán.png" tvg-country="CL" tvg-language="Spanish" group-title="Chile Tv", Canal 21 Chillán
+#EXTINF:-1 tvg-id="348" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Canal_21_Chillán.png/640px-Canal_21_Chillán.png" tvg-country="CL" tvg-language="Spanish" group-title="Chile Tv",Canal 21 Chillán
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="19" tvg-name="" tvg-language="English" tvg-logo="https://theme.zdassets.com/theme_assets/1226579/61fa2eb9914d55b3fcad1f3f8b4c162d40c8cbdd.png" tvg-country="US" tvg-url="" group-title="US Tv",ABC 15 Phoenix AZ
