@@ -27,6 +27,9 @@ https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/chunklist.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="" tvg-language="Russian" tvg-logo="https://i.imgur.com/8fKWpo3.png" tvg-country="RU" tvg-url="" group-title="Adventist Russian",3ABN Russia
 https://3abn-live.akamaized.net/hls/live/2010548/Russia/HQs/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="9" tvg-name="" tvg-language="Ukrainian" tvg-logo="https://tv.hope.ua/wp-content/uploads/2021/12/Union.png" tvg-country="UA" tvg-url="" group-title="Adventist Ukraine",Hope Channel Ukraine
+https://videodelivery.net/d0ee49a1cfc0ebd7020fcaa144fc7475/manifest/video.m3u8
+
 #EXTINF:-1 tvg-id="10" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/exdDHml.png" tvg-country="CL" tvg-url="" group-title="Adventist Spanish",Nuevo Tiempo
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 
